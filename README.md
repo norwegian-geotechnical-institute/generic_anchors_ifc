@@ -10,3 +10,6 @@ It contains 133 objects, and depends on 3 plug-ins:
   - LunchBox                       by 'unknown author' (2016.3.21.0)
 
 This file will not load correctly unless the aforementioned plug-ins are installed.
+
+## IFC exported result
+We have tested to open the IFC-files under **\IFC export** using usBIM (free ware) and Trimble Connect. Some other BIM viewers may have problem visualising the line geometryies.
