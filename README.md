@@ -7,7 +7,7 @@ The Grasshopper-script is developed using Rhino 7 Commercial, build 2023-09-24
 It contains 133 objects, and depends on 3 plug-ins:
   - ggRhinoIFC                     by Geometry Gym Pty Ltd (23.8.16.0)
   - Pufferfish                     by Michael Pryor (2.9.0.0)
-  - LunchBox                       by 'unknown author' (2016.3.21.0)
+  - LunchBox                       by Nathan Miller (2016.3.21.0)
 
 This file will not load correctly unless the aforementioned plug-ins are installed.
 
