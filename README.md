@@ -13,3 +13,7 @@ This file will not load correctly unless the aforementioned plug-ins are install
 
 ## IFC exported result
 We have tested to open the IFC-files under **\IFC export** using usBIM (free ware) and Trimble Connect. Some other BIM viewers may have problem visualising the line geometryies.
+
+## Appending new property sets
+With Geomtry Gym, by using different IfcPropSet Names, the IFC model will be attached with different property sets. See example in figure below of appending IfcPropSets named "Maintenance 2023" and "Maintenance 2024" to existing IfcProSet named "LOD500 bolts"
+![image](https://github.com/norwegian-geotechnical-institute/generic_anchors_ifc/assets/74724769/75c21058-2554-420c-9001-e0cc7f802763)
