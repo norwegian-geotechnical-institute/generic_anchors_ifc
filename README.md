@@ -17,3 +17,7 @@ We have tested to open the IFC-files under **\IFC export** using usBIM (free war
 ## Appending new property sets
 With Geomtry Gym, by using different IfcPropSet Names, the IFC model will be attached with different property sets. See example in figure below of appending IfcPropSets named "Maintenance 2023" and "Maintenance 2024" to existing IfcProSet named "LOD500 bolts"
 ![image](https://github.com/norwegian-geotechnical-institute/generic_anchors_ifc/assets/74724769/75c21058-2554-420c-9001-e0cc7f802763)
+
+## Contact
+Jessica Ka Yi Chiu
+jessica.ka.yi.chiu@ngi.no
