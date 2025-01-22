@@ -1,6 +1,14 @@
 # generic_anchors_ifc
 A generic Grasshopper tool for export of geometry and information modell of anchors at different Levels of Developement (LODs) to IFC, using Geometry Gym.
 
+## Citation/publication
+This repository is associated with a manuscript of a journal article (submitted to Acta Geotechnica, under peer-review)
+- **Title:** Building information modelling of tension supporting elements for ground reinforcement using parametric design
+- **Authors:** Jessica Ka Yi Chiu, Georg H. Erharter, Olav Roset, Mattias J. Rebhan, Charlie Chunlin Li
+
+## How to cite
+Jessica Ka Yi Chiu, Georg H. Erharter, Olav Roset et al. Building information modelling of tension supporting elements for ground reinforcement using parametric design, 22 January 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4100713/v1]
+
 ## Dependencies
 The Grasshopper-script is developed using Rhino 7 Commercial, build 2023-09-24
 
