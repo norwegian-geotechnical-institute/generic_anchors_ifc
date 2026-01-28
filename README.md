@@ -3,7 +3,8 @@ A generic Grasshopper tool for export of geometry and information modell of anch
 
 ## Citation/publication
 This repository is associated with the following journal article:
-Chiu JKY, Erharter GH, Roset O, et al (2026) Application of Building Information Modelling to Tension-Based Ground Reinforcement Systems. https://doi.org/10.1007/s10706-026-03634-4
+Chiu JKY, Erharter GH, Roset O, et al (2026) Application of Building Information Modelling to Tension-Based Ground Reinforcement Systems. Geotechnical and Geological Engineering. https://doi.org/10.1007/s10706-026-03634-4
+
 
 
 ## Dependencies
