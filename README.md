@@ -2,9 +2,9 @@
 A generic Grasshopper tool for export of geometry and information modell of anchors at different Levels of Developement (LODs) to IFC, using Geometry Gym.
 
 ## Citation/publication
-This repository is associated with a manuscript of a journal article (under peer-review)
-- **Title:** Building information modelling (BIM) of tension supporting elements for ground reinforcement
-- **Authors:** Jessica Ka Yi Chiu, Georg H. Erharter, Olav Roset, Mattias J. Rebhan, Charlie Chunlin Li
+This repository is associated with the following journal article:
+Chiu JKY, Erharter GH, Roset O, et al (2026) Application of Building Information Modelling to Tension-Based Ground Reinforcement Systems. https://doi.org/10.1007/s10706-026-03634-4
+
 
 ## Dependencies
 The Grasshopper-script is developed using Rhino 7 Commercial, build 2024-04-16
